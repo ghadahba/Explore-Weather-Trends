@@ -19,7 +19,7 @@ mecca: Contains the average temperatures for Mecca by year(ºC).
 The Steps:
 1. Extract the data from the database.
 2. Make observations
-2.1. linear plot for average temperature in Mecca and global.
-2.2. The moving average for 10 years for each of the average temperatures for Mecca and global and the trendline.
-2.3. Some statistical functions to see the difference and similarity for average temperatures for Mecca and global.
-2.4. The forecasting for the next 10 years is the average temperature for both Mecca and the global.
+- linear plot for average temperature in Mecca and global.
+- The moving average for 10 years for each of the average temperatures for Mecca and global and the trendline.
+- Some statistical functions to see the difference and similarity for average temperatures for Mecca and global.
+- The forecasting for the next 10 years is the average temperature for both Mecca and the global.
