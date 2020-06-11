@@ -19,7 +19,7 @@ The main goal is to create a visualization and prepare a write up describing the
 ### The Steps:
 1. Extract the data from the database.
 2. Make observations
-  - linear plot for average temperature in Mecca and global.
-  - The moving average for 10 years for each of the average temperatures for Mecca and global and the trendline.
-  - Some statistical functions to see the difference and similarity for average temperatures for Mecca and global.
-  - The forecasting for the next 10 years is the average temperature for both Mecca and the global.
+   - linear plot for average temperature in Mecca and global.
+   - The moving average for 10 years for each of the average temperatures for Mecca and global and the trendline.
+   - Some statistical functions to see the difference and similarity for average temperatures for Mecca and global.
+   - The forecasting for the next 10 years is the average temperature for both Mecca and the global.
