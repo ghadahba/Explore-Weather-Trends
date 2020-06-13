@@ -1,4 +1,4 @@
-# Explore-Weather-Trends
+# Explore Weather Trends
 This is the first project in the Data Analyst Nanodegree by Udacity.
 
 ### Getting Started
